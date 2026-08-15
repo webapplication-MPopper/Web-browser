@@ -1,6 +1,3 @@
-## SakhNet Browser
-
-![SakhNet Browser](images/sakhnet.png)
 
 # 🌐 SakhNet Browser
 
